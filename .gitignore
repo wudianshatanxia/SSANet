@@ -1,0 +1,12 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local datasets, checkpoints, figures, and exported experiment results
+/data/
+/outputs/
